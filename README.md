@@ -18,18 +18,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 23 Contributions in the Year 2021
- > 
-> 📦 33.8 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
