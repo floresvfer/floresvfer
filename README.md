@@ -34,9 +34,5 @@ Linux                    12 hrs 45 mins      ███████████�
 
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/floresvfer/floresvfer/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
