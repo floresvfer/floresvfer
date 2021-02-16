@@ -1,3 +1,24 @@
+                                                                                
+                                  @@         @@                                 
+                                  @@         @@                                 
+                                  &@@@     @@@@                                 
+                                 (@@@@@@@@@@@@@%                                
+                   @@           @@@           @@@           @@                  a bug is never just a mistake.
+                   @@          @@*             .@@          @@                  
+                   @@@      @@@@@@             @@@@@@.     @@@                  
+                    @@@@  *@@    @@@@@@@@@@@@@@@    @@(  @@@@                   it represents something bigger.
+                       %@@@@@          @@@          @@@@@/                      
+                          @@@          @@@          @@@                         
+                          @@@          @@@          @@@                         an error of thinking
+               *@@@@@@@@@@@@@          @@@          @@@@@@@@@@@@@               
+                          @@@          @@@          @@@                         
+                          @@@          @@@          @@@                         that makes you who you are.
+                      @@@@@@@          @@@         #@@@@@@@                     
+                    @@@     @@@        @@@        @@@     @@@                   
+                   @@(       (@@@      @@@      @@@&       @@@                  
+                   @@           @@@@@@@@@@@@@@@@@           @@                  
+                                      #@@@#                                     
+
 
 <!--
 **floresvfer/floresvfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <p align="center">
-    <img height="380" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-  </p>
+
   
 
 <!--START_SECTION:waka-->
