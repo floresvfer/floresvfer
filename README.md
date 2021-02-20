@@ -63,19 +63,19 @@ Linux                    11 hrs 11 mins      ███████████�
 
 #### Languages
 
-![img](https://shields.io/badge/%20-%20javascript-f7df1e?style=for-the-badge&logo=javascript&link=javascript.com&link=javascript.com&logoColor=black) ![img](https://shields.io/badge/%20-%20typescript-3178c6?style=for-the-badge&logo=typescript&link=https://www.typescriptlang.org&link=https://www.typescriptlang.org&logoColor=white)
+[![img](https://shields.io/badge/%20-%20javascript-f7df1e?style=for-the-badge&logo=javascript&link=javascript.com&link=javascript.com&logoColor=black)](LINK) [![img](https://shields.io/badge/%20-%20typescript-3178c6?style=for-the-badge&logo=typescript&link=https://www.typescriptlang.org&link=https://www.typescriptlang.org&logoColor=white)](LINK)
 
 #### UI 
 
-![img](https://shields.io/badge/%20-%20bootstrap-7952b3?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com&link=https://getbootstrap.com&logoColor=white) ![img](https://shields.io/badge/%20-%20material design-0081cb?style=for-the-badge&logo=material-design&link=https://material.io/design&link=https://material.io/design&logoColor=white) ![img](https://shields.io/badge/%20-%20ant design-0170fe?style=for-the-badge&logo=ant-design&link=https://ant.design&link=https://ant.design&logoColor=white)
+[![img](https://shields.io/badge/%20-%20bootstrap-7952b3?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com&link=https://getbootstrap.com&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20material design-0081cb?style=for-the-badge&logo=material-design&link=https://material.io/design&link=https://material.io/design&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20ant design-0170fe?style=for-the-badge&logo=ant-design&link=https://ant.design&link=https://ant.design&logoColor=white)](LINK)
 
 #### Frameworks
 
-![img](https://shields.io/badge/%20-%20angular-dd0031?style=for-the-badge&logo=angular&link=https://www.angular.io&link=https://www.angular.io&logoColor=white) ![img](https://shields.io/badge/%20-%20react-61dafb?style=for-the-badge&logo=react&link=https://www.reactjs.org&link=https://www.reactjs.org&logoColor=black) ![img](https://shields.io/badge/%20-%20ionic-3880ff?style=for-the-badge&logo=ionic&link=https://ionicframework.com&link=https://ionicframework.com&logoColor=white)
+[![img](https://shields.io/badge/%20-%20angular-dd0031?style=for-the-badge&logo=angular&link=https://www.angular.io&link=https://www.angular.io&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20react-61dafb?style=for-the-badge&logo=react&link=https://www.reactjs.org&link=https://www.reactjs.org&logoColor=black)](LINK) [![img](https://shields.io/badge/%20-%20ionic-3880ff?style=for-the-badge&logo=ionic&link=https://ionicframework.com&link=https://ionicframework.com&logoColor=white)](LINK)
 
 #### Keep in Touch
 
-[![img](https://shields.io/badge/%20-%20twitter-3880ff?style=for-the-badge&logo=twitter&link=https://twitter.com/floresvfer&link=https://twitter.com/floresvfer&logoColor=white)](LINK)[![img](https://shields.io/badge/%20-%20instagram-e4405f?style=for-the-badge&logo=instagram&link=https://instagram.com/floresvfer&link=https://instagram.com/floresvfer&logoColor=white)](LINK)[<img src="https://shields.io/badge/%20-%20facebook-1877f2?style=for-the-badge&logo=facebook&link=https://facebook.com/floresvfer&link=https://facebook.com/floresvfer&logoColor=white">](<LINK>) 
+[![img](https://shields.io/badge/%20-%20twitter-3880ff?style=for-the-badge&logo=twitter&link=https://twitter.com/floresvfer&link=https://twitter.com/floresvfer&logoColor=white)](LINK)[![img](https://shields.io/badge/%20-%20instagram-e4405f?style=for-the-badge&logo=instagram&link=https://instagram.com/floresvfer&link=https://instagram.com/floresvfer&logoColor=white)](LINK) [<img src="https://shields.io/badge/%20-%20facebook-1877f2?style=for-the-badge&logo=facebook&link=https://facebook.com/floresvfer&link=https://facebook.com/floresvfer&logoColor=white">](<LINK>) 
 
 
 
