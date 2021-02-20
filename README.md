@@ -71,7 +71,7 @@ Linux                    11 hrs 11 mins      ███████████�
 
 #### Frameworks
 
-![img](https://shields.io/badge/%20-%20angular-dd0031?style=for-the-badge&logo=angular&link=https://www.angular.io&link=https://www.angular.io&logoColor=white)![img](https://shields.io/badge/%20-%20react-61dafb?style=for-the-badge&logo=react&link=https://www.reactjs.org&link=https://www.reactjs.org&logoColor=black)![img](https://shields.io/badge/%20-%20ionic-3880ff?style=for-the-badge&logo=ionic&link=https://ionicframework.com&link=https://ionicframework.com&logoColor=white)
+![img](https://shields.io/badge/%20-%20angular-dd0031?style=for-the-badge&logo=angular&link=https://www.angular.io&link=https://www.angular.io&logoColor=white) ![img](https://shields.io/badge/%20-%20react-61dafb?style=for-the-badge&logo=react&link=https://www.reactjs.org&link=https://www.reactjs.org&logoColor=black) ![img](https://shields.io/badge/%20-%20ionic-3880ff?style=for-the-badge&logo=ionic&link=https://ionicframework.com&link=https://ionicframework.com&logoColor=white)
 
 #### Keep in Touch
 
