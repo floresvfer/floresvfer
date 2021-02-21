@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-167-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -57,6 +57,7 @@ Linux                    11 hrs 11 mins      ███████████�
 
 ```
 
+
 <!--END_SECTION:waka-->
 
 
@@ -71,7 +72,7 @@ Linux                    11 hrs 11 mins      ███████████�
 
 #### UI 
 
-[![img](https://shields.io/badge/%20-%20bootstrap-7952b3?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com&link=https://getbootstrap.com&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20material design-0081cb?style=for-the-badge&logo=material-design&link=https://material.io/design&link=https://material.io/design&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20ant design-0170fe?style=for-the-badge&logo=ant-design&link=https://ant.design&link=https://ant.design&logoColor=white)](LINK)
+[![img](https://shields.io/badge/%20-%20bootstrap-7952b3?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com&link=https://getbootstrap.com&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20material%20design-0081cb?style=for-the-badge&logo=material-design&link=https://material.io/design&link=https://material.io/design&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20ant%20design-0170fe?style=for-the-badge&logo=ant-design&link=https://ant.design&link=https://ant.design&logoColor=white)](LINK)
 
 #### Frameworks
 
