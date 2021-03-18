@@ -76,7 +76,7 @@ Linux                    17 hrs 8 mins       ███████████�
 
 #### Frameworks
 
-[![img](https://shields.io/badge/%20-%20angular-dd0031?style=for-the-badge&logo=angular&link=https://www.angular.io&link=https://www.angular.io&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20react-61dafb?style=for-the-badge&logo=react&link=https://www.reactjs.org&link=https://www.reactjs.org&logoColor=black)](LINK) [![img](https://shields.io/badge/%20-%20ionic-3880ff?style=for-the-badge&logo=ionic&link=https://ionicframework.com&link=https://ionicframework.com&logoColor=white)](LINK)
+[![img](https://shields.io/badge/%20-%20angular-dd0031?style=for-the-badge&logo=angular&link=https://www.angular.io&link=https://www.angular.io&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20react-61dafb?style=for-the-badge&logo=react&link=https://www.reactjs.org&link=https://www.reactjs.org&logoColor=black)](LINK) [![img](https://shields.io/badge/%20-%20ionic-3880ff?style=for-the-badge&logo=ionic&link=https://ionicframework.com&link=https://ionicframework.com&logoColor=white)](LINK) [![img](https://shields.io/badge/%20-%20laravel-ff2d20?style=for-the-badge&logo=laravel&link=&link=&logoColor=white)](LINK)
 
 #### Cloud
 
