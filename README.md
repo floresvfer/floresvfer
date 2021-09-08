@@ -87,7 +87,7 @@ Linux                    7 hrs 30 mins       ███████████�
 
 #### Keep in Touch
 
-[![img](https://shields.io/badge/%20-%20twitter-3880ff?style=for-the-badge&logo=twitter&link=https://twitter.com/floresvfer&link=https://twitter.com/floresvfer&logoColor=white)](https://www.instagram.com/floresvfer/)[![img](https://shields.io/badge/%20-%20instagram-e4405f?style=for-the-badge&logo=instagram&link=https://instagram.com/floresvfer&link=https://instagram.com/floresvfer&logoColor=white)](LINK) [<img src="https://shields.io/badge/%20-%20facebook-1877f2?style=for-the-badge&logo=facebook&link=https://facebook.com/floresvfer&link=https://facebook.com/floresvfer&logoColor=white">](<LINK>) 
+[![img](https://shields.io/badge/%20-%20twitter-3880ff?style=for-the-badge&logo=twitter&link=https://twitter.com/floresvfer&link=https://twitter.com/floresvfer&logoColor=white)](https://www.instagram.com/floresvfer/) [![img](https://shields.io/badge/%20-%20instagram-e4405f?style=for-the-badge&logo=instagram&link=https://instagram.com/floresvfer&link=https://instagram.com/floresvfer&logoColor=white)](LINK) [<img src="https://shields.io/badge/%20-%20facebook-1877f2?style=for-the-badge&logo=facebook&link=https://facebook.com/floresvfer&link=https://facebook.com/floresvfer&logoColor=white">](<LINK>) 
 
 
 
