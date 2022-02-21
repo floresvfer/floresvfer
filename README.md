@@ -38,6 +38,8 @@ Here are some ideas to get you started:
   
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C608%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -59,7 +61,7 @@ Windows                  12 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/02/2022 06:09:36 UTC
+ Last Updated on 21/02/2022 07:07:42 UTC
 <!--END_SECTION:waka-->
 
 
