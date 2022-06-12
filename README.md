@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C780%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Guatemala
@@ -60,7 +60,7 @@ Windows                  12 hrs 59 mins      ███████████�
 ```
 
 
- Last Updated on 12/06/2022 08:08:49 UTC
+ Last Updated on 12/06/2022 09:08:38 UTC
 <!--END_SECTION:waka-->
 
 
