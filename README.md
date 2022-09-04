@@ -38,33 +38,12 @@ Here are some ideas to get you started:
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C960%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: America/Guatemala
-
-💬 Programming Languages: 
-TypeScript               15 hrs 10 mins      ██████████████████████░░░   89.94% 
-JavaScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-💻 Operating System: 
-react                    6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
-react-native             1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
-axios                    1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-native                   47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05% 
-react-native-keyboard-awa47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
-
-```
-
-
- Last Updated on 04/09/2022 07:07:31 UTC
+ Last Updated on 04/09/2022 08:10:36 UTC
 <!--END_SECTION:waka-->
 
 
