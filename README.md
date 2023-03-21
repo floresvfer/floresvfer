@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C184%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C184%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,7 +59,7 @@ Windows                  4 hrs 22 mins       ███████████�
 ```
 
 
- Last Updated on 21/03/2023 22:03:18 UTC
+ Last Updated on 21/03/2023 23:05:19 UTC
 <!--END_SECTION:waka-->
 
 
