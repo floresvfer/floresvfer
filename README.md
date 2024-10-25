@@ -42,8 +42,24 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 25/10/2024 07:08:20 UTC
+```text
+🕑︎ Time Zone: America/Guatemala
+
+💬 Programming Languages: 
+TypeScript               2 hrs 41 mins       █████████████████████░░░░   83.35 % 
+JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+SourceMap                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/10/2024 08:11:48 UTC
 <!--END_SECTION:waka-->
 
 
