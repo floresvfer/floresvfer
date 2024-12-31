@@ -48,16 +48,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-TypeScript               0 secs              ██████████████████████░░░   86.52 % 
-JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2024 06:12:00 UTC
+ Last Updated on 31/12/2024 07:08:30 UTC
 <!--END_SECTION:waka-->
 
 
