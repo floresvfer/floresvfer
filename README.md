@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C638%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,16 +48,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-TypeScript               47 mins             ██████████████████████░░░   87.39 % 
-JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+TypeScript               1 hr 38 mins        ███████████████████████░░   93.45 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/04/2025 06:13:29 UTC
+ Last Updated on 08/04/2025 07:09:37 UTC
 <!--END_SECTION:waka-->
 
 
