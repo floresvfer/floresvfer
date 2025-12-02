@@ -48,18 +48,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-TypeScript               15 mins             ███████████████░░░░░░░░░░   61.32 % 
-JavaScript               5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/12/2025 06:17:13 UTC
+ Last Updated on 02/12/2025 07:13:36 UTC
 <!--END_SECTION:waka-->
 
 
